@@ -9,12 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-For my resume in PDF format, you can find it [here](https://rchou97.github.io/Richard_Chou_CV_231022.pdf).
+For my resume in PDF format, you can find it [here](https://rchou97.github.io/Richard_Chou_CV_020223.pdf).
 
 Work experience
 ------
+
+* Bit Academy: Part of the Team - Community Coach (January 2023 - Present)
+  * Facilitate and coach people with coding problems for the PRO courses.
+
 * De Volksbank: Junior Data Engineer BI (September 2022 - Present)
-  * Working on the dashboarding and data warehousing of De Volksbank within the Risk & Compliance domain. 
+  * Working on the dashboarding and data warehousing of De Volksbank within the Risk & Compliance domain.
 
 * Coolblue: Data Science Intern (March 2022 - August 2022)
   * Collaborate with the forecasting data team to forecast potential sales in multiple seasonal product types of Coolblue.
@@ -33,8 +37,9 @@ Work experience
 
 Volunteer experience
 ------
-* Volt Europe: Data Analyst (August 2021 - present)
+* Volt Europe: Data Analyst (August 2021 - Present)
   * Support the data analytics team with dashboarding for different parties within Volt.
+  * Operate as facilitator as a Data Analytics facilitator within Volt Europe. 
   * Used technologies: Python, PostgreSQL, and Looker Studio
 
 * KLM/Run in the Sun Foundation: Volunteer Staff (November 2017) 
