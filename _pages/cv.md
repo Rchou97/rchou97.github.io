@@ -28,7 +28,7 @@ Work experience
   * Mainly active in the fields of information security and quality management.
 
 * Accenture: Associate (March 2018 - September 2019)
-  * Started as an undergraduate intern. Research topic: scoped on data security tooling and best practices to ensure GDPR-compliance in the data security segment. 
+  * Started as an undergraduate intern. Research topic: scoped on data security tooling and best practices to ensure GDPR-compliance in the data security segment.
   * Project role was at the business operations side as a PMO practitioner, which was delivering account support at one of Accenture's Dutch accounts.
 
 * Finaps: Junior Information Security Specialist (August 2016 - December 2017)
@@ -36,8 +36,10 @@ Work experience
   * Role was to actively contribute to Finaps' goal of creating insight, impact and trust for its clients within the field of information security.
 
 Volunteer experience
+
 ------
-* Volt Europe: Data Analyst (August 2021 - Present)
+
+* Volt Europe: Data Analyst (August 2021 - April 2023)
   * Support the data analytics team with dashboarding for different parties within Volt.
   * Operate as facilitator as a Data Analytics facilitator within Volt Europe. 
   * Used technologies: Python, PostgreSQL, and Looker Studio
@@ -47,6 +49,7 @@ Volunteer experience
 
 Education
 ------
+
 * MSc. in Information Studies: Data Science, University of Amsterdam, 2021-2022
   * Taken courses: *Fundamentals of Data Science*, *Statistics, Simulation and Optimisation*, *Applied Machine Learning*, *Data Systems Project*, *Causal Data Science*, *Big Data* and *Master Thesis*
   * Thesis subject: *Detecting and classifying cyberbullying memes in Twitter posts*
@@ -62,7 +65,9 @@ Education
   
 Technical Skills
 ------
+
 **Programming Skills**
+
 * Python
   * Pandas
   * Matplotlib/Seaborn
@@ -84,6 +89,7 @@ Technical Skills
     * tibble
 
 **Query Languages**
+
 * SQL
   * PostgreSQL
   * Teradata
@@ -92,6 +98,7 @@ Technical Skills
   * Neo4J
 
 **Software**
+
 * Dashboard tools
   * Looker Studio
   * Tableau
@@ -102,12 +109,14 @@ Technical Skills
 * Amazon SageMaker Ground Truth
 
 **Security**
+
 * GDPR
 * Information security
 * ISO 27001
 
 Languages
 ------
+
 * Dutch (Fluent)
 * English (Advanced)
 * Mandarin (Basic)
