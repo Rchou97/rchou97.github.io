@@ -15,7 +15,7 @@ Work experience
 ------
 
 * Bit Academy: Part of the Team - Community Coach (January 2023 - Present)
-  * Facilitate and coach people with coding problems for the PRO courses.
+  * Facilitate and coach people with coding problems for the Bit Academy Pro courses in Python, SQL and other open-source technologies.
 
 * De Volksbank: Junior Data Engineer BI (September 2022 - Present)
   * Working on the dashboarding and data warehousing of De Volksbank within the Risk & Compliance domain.
