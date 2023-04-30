@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For my resume in PDF format, you can find it [here](https://rchou97.github.io/Richard_Chou_CV_020223.pdf).
+For a more extensive resume in PDF format, you can find it [here](https://rchou97.github.io/files/Richard_Chou_CV.pdf).
 
 Work experience
 ------
@@ -49,6 +49,9 @@ Volunteer experience
 
 Education
 ------
+
+* Open University student in Computer Science and Data Science, University of Helsinki, 2023-2024
+  * Taken courses: *Operating Systems*
 
 * MSc. in Information Studies: Data Science, University of Amsterdam, 2021-2022
   * Taken courses: *Fundamentals of Data Science*, *Statistics, Simulation and Optimisation*, *Applied Machine Learning*, *Data Systems Project*, *Causal Data Science*, *Big Data* and *Master Thesis*
