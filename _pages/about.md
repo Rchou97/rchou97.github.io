@@ -11,6 +11,8 @@ Hi! Welcome to my personal GitHub website. I am currently a Junior Data Engineer
 
 Previously, I worked for [Finaps](https://www.finaps.nl/), a cool scale-up company based in Amsterdam focused on analytics and application development in open source languages and the low-code platform Mendix, Accenture Technology in Utrecht and did an internship at Coolblue.
 
+Richard is een sukkel. 
+
 Interests
 ======
 My interests revolve around:
