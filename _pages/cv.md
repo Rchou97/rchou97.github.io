@@ -16,15 +16,22 @@ Work experience
 
 * Bit Academy: Part of the Team - Community Coach (January 2023 - Present)
   * Facilitate and coach people with coding problems for the Bit Academy Pro courses in Python, SQL and other open-source technologies.
+  * Used technologies: SQL (SQLite), GitLab and Python.
 
 * De Volksbank: Junior Data Engineer BI (September 2022 - Present)
-  * Working on the dashboarding and data warehousing of De Volksbank within the Risk & Compliance domain.
+  * Working on the dashboarding and the functional data warehouse of De Volksbank within the Risk & Compliance domain.
+  * Used technologies: SQL (Teradata), Jira, Confluence, BitBucket, SAP PowerDesigner and Tableau.
 
-* Coolblue: Data Science Intern (March 2022 - August 2022)
+* Coolblue: Data Science Intern (April 2022 - August 2022)
   * Collaborate with the forecasting data team to forecast potential sales in multiple seasonal product types of Coolblue.
+  * Used technologies: SQL (BigQuery), Jira, Confluence, GitHub and Python.
+
+* University of Amsterdam: Graduate Research Intern (February 2022 - July 2022)
+  * Did research and developed a multi-modal classification model on detecting and classifying cyberbullying within memes posted on Twitter.
+  * Used technologies: Python, Amazon SageMaker, GitHub, and Twitter Developer API.
 
 * Finaps: Process Engineer (November 2019 - April 2022)
-  * Actively contribute to Finaps' goal of creating insight, impact and trust for our clients.
+  * Actively contributed to Finaps' goal of creating insight, impact and trust for our clients.
   * Mainly active in the fields of information security and quality management.
 
 * Accenture: Associate (March 2018 - September 2019)
@@ -41,17 +48,17 @@ Volunteer experience
 
 * Volt Europe: Data Analyst (August 2021 - April 2023)
   * Support the data analytics team with dashboarding for different parties within Volt.
-  * Operate as facilitator as a Data Analytics facilitator within Volt Europe. 
-  * Used technologies: Python, PostgreSQL, and Looker Studio
+  * Operate as facilitator as a Data Analytics facilitator within Volt Europe.
+  * Used technologies: Python, SQL (PostgreSQL), GitLab, and Looker Studio
 
-* KLM/Run in the Sun Foundation: Volunteer Staff (November 2017) 
+* KLM/Run in the Sun Foundation: Volunteer Staff (November 2017)
   * Worked for one month as a volunteer for the KLM Curaçao Marathon, which was organised by the Run in the Sun Foundation.
 
 Education
 ------
 
 * Open University student in Computer Science and Data Science, University of Helsinki, 2023-2024
-  * Taken courses: *Operating Systems*
+  * Taken courses: *Operating Systems* and *Devops with Docker: Part 1*
 
 * MSc. in Information Studies: Data Science, University of Amsterdam, 2021-2022
   * Taken courses: *Fundamentals of Data Science*, *Statistics, Simulation and Optimisation*, *Applied Machine Learning*, *Data Systems Project*, *Causal Data Science*, *Big Data* and *Master Thesis*
@@ -97,6 +104,7 @@ Technical Skills
   * PostgreSQL
   * Teradata
   * BigQuery
+  * SQLite
 * Cypher
   * Neo4J
 
@@ -109,7 +117,14 @@ Technical Skills
   * Overleaf
 * MS Office
 * Docker
-* Amazon SageMaker Ground Truth
+* Amazon SageMaker
+* SAP PowerDesigner
+* Atlassian
+  * Jira
+  * Confluence
+  * BitBucket
+* GitHub
+* GitLab
 
 **Security**
 
