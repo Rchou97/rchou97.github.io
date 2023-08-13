@@ -14,20 +14,20 @@ For a more extensive resume in PDF format, you can find it [here](https://rchou9
 Work experience
 ------
 
-* Bit Academy: Part of the Team - Community Coach (January 2023 - Present)
-  * Facilitate and coach people with coding problems for the Bit Academy Pro courses in Python, SQL and other open-source technologies.
-  * Used technologies: SQL (SQLite), GitLab and Python.
-
 * De Volksbank: Junior Data Engineer BI (September 2022 - Present)
   * Working on the dashboarding and the functional data warehouse of De Volksbank within the Risk & Compliance domain.
   * Used technologies: SQL (Teradata), Jira, Confluence, BitBucket, SAP PowerDesigner and Tableau.
 
+* Bit Academy: Part of the Team - Community Coach (January 2023 - August 2023)
+  * Facilitate and coach people with coding problems for the Bit Academy Pro courses in Python, SQL and other open-source technologies.
+  * Used technologies: SQL (SQLite), GitLab and Python.
+
 * Coolblue: Data Science Intern (April 2022 - August 2022)
   * Collaborate with the forecasting data team to forecast potential sales in multiple seasonal product types of Coolblue.
-  * Used technologies: SQL (BigQuery), Jira, Confluence, GitHub and Python.
+  * Used technologies: SQL (BigQuery), Atlassian stack (Jira, Confluence and Bitbucket), GitHub and Python.
 
 * University of Amsterdam: Graduate Research Intern (February 2022 - July 2022)
-  * Did research and developed a multi-modal classification model on detecting and classifying cyberbullying within memes posted on Twitter.
+  * Performed research on multi-modal classification models that detects and classifies cyberbullying within memes posted on Twitter.
   * Used technologies: Python, Amazon SageMaker, GitHub, and Twitter Developer API.
 
 * Finaps: Process Engineer (November 2019 - April 2022)
@@ -68,7 +68,7 @@ Education
 * MSc. in Business Informatics (not completed: 61,5/120 ECTS, completed Applied Data Science profile: 45/30 ECTS), Utrecht University, 2020-2021
   * Taken courses: *Introducing Natural Sciences*, *Introduction to Business Informatics*, *Method Engineering*, *Data Science and Society*, *Big Data*, *Business Intelligence*, *Data Analysis and Visualisation*, *Algorithms in Finance*, and *Data Intensive Systems*
 
-* BSc. in Business, IT & Management (currently HBO-ICT), Hogeschool Utrecht, 2014-2018 
+* BSc. in Business, IT & Management (currently HBO-ICT), Hogeschool Utrecht, 2014-2018
   * Taken courses: *Enterprise Resource Planning*, *CRM & Selecting*, *Project Business Systems*, *Business Process Management Systems*, *Change and Consultancy Skills*, *University Project*, *Execute Your Own Project*, *Performance Management*, *Business IT Alignment*, *IT Service Management*, *Applied Research and Professional Skills 3*, *Internship*, *Business Environment*, *Business Development and Design*, *Big Data*, *Digital Company*, *Social Media Communication*, and *Graduation Assignment*.
   * Minor: *Sport and Entertainment Marketing*
   * Final GPA: 7.3/10
@@ -105,8 +105,6 @@ Technical Skills
   * Teradata
   * BigQuery
   * SQLite
-* Cypher
-  * Neo4J
 
 **Software**
 
@@ -119,10 +117,10 @@ Technical Skills
 * Docker
 * Amazon SageMaker
 * SAP PowerDesigner
-* Atlassian
+* Atlassian stack
   * Jira
   * Confluence
-  * BitBucket
+  * Bitbucket
 * GitHub
 * GitLab
 
