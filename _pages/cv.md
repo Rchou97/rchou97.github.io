@@ -53,7 +53,6 @@ Work experience
     * Role was to actively contribute to Finaps' goal of creating insight, impact and trust for its clients within the field of information security.
 
 Volunteer experience
-
 ------
 
 * **Volt Europe**
