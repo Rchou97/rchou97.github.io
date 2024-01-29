@@ -69,7 +69,7 @@ Education
 ------
 
 * Open University student in Computer Science and Data Science, University of Helsinki, 2023-2024
-  * Taken courses: *Operating Systems*, *Introduction to Programming*, *Big Data Platforms* and *Devops with Docker: Part 1*
+  * Taken courses: *Operating Systems*, *Introduction to Programming*, *Advanced Course in Programming*, *Big Data Platforms* and *Devops with Docker: Part 1*
 
 * MSc. in Information Studies: Data Science, University of Amsterdam, 2021-2022
   * Taken courses: *Fundamentals of Data Science*, *Statistics, Simulation and Optimisation*, *Applied Machine Learning*, *Data Systems Project*, *Causal Data Science*, *Big Data* and *Master Thesis*
