@@ -58,7 +58,7 @@ Volunteer experience
 * **Volt Europe**
   * Data Analyst (August 2021 - April 2023)
     * Support the data analytics team with dashboarding for different parties within Volt.
-    * Operate as facilitator as a Data Analytics facilitator within Volt Europe.
+    * Operated as a Data Analytics facilitator within Volt Europe from December 2022 - April 2023.
     * Used technologies: Python, SQL (PostgreSQL), GitLab, and Looker Studio
 
 * **KLM/Run in the Sun Foundation**
@@ -69,15 +69,15 @@ Education
 ------
 
 * Open University student in Computer Science and Data Science, University of Helsinki, 2023-2024
-  * Taken courses: *Operating Systems*, *Introduction to Programming*, *Advanced Course in Programming*, *Big Data Platforms* and *Devops with Docker: Part 1*
+  * Taken courses: *Operating Systems*, *Introduction to Programming*, *Advanced Course in Programming*, *Big Data Platforms* and *Devops with Docker: Part 1*.
 
 * MSc. in Information Studies: Data Science, University of Amsterdam, 2021-2022
-  * Taken courses: *Fundamentals of Data Science*, *Statistics, Simulation and Optimisation*, *Applied Machine Learning*, *Data Systems Project*, *Causal Data Science*, *Big Data* and *Master Thesis*
+  * Taken courses: *Fundamentals of Data Science*, *Statistics, Simulation and Optimisation*, *Applied Machine Learning*, *Data Systems Project*, *Causal Data Science*, *Big Data* and *Master Thesis*.
   * Thesis subject: *Detecting and classifying cyberbullying memes in Twitter posts*
   * Final GPA: 7.4/10
 
 * MSc. in Business Informatics (not completed: 61,5/120 ECTS, completed Applied Data Science profile: 45/30 ECTS), Utrecht University, 2020-2021
-  * Taken courses: *Introducing Natural Sciences*, *Introduction to Business Informatics*, *Method Engineering*, *Data Science and Society*, *Big Data*, *Business Intelligence*, *Data Analysis and Visualisation*, *Algorithms in Finance*, and *Data Intensive Systems*
+  * Taken courses: *Introducing Natural Sciences*, *Introduction to Business Informatics*, *Method Engineering*, *Data Science and Society*, *Big Data*, *Business Intelligence*, *Data Analysis and Visualisation*, *Algorithms in Finance*, and *Data Intensive Systems*.
 
 * BSc. in Business, IT & Management (currently HBO-ICT), Hogeschool Utrecht, 2014-2018
   * Taken courses: *Enterprise Resource Planning*, *CRM & Selecting*, *Project Business Systems*, *Business Process Management Systems*, *Change and Consultancy Skills*, *University Project*, *Execute Your Own Project*, *Performance Management*, *Business IT Alignment*, *IT Service Management*, *Applied Research and Professional Skills 3*, *Internship*, *Business Environment*, *Business Development and Design*, *Big Data*, *Digital Company*, *Social Media Communication*, and *Graduation Assignment*.
@@ -88,53 +88,70 @@ Education
 Technical Skills
 ------
 
-**Programming Skills**
+**Programming**
 
 * Python
-  * Pandas
-  * Matplotlib/Seaborn
-  * Scikit-Learn
-  * NumPy/SciPy
-  * Plotly/Dash
-  * PySpark
-  * XGBoost
-  * LightGBM
-  * AdaBoost
-  * CatBoost
-  * Shap
+  * Data Wrangling and Transformation
+    * NumPy
+    * Pandas
+    * PySpark
+    * SciPy
+  * Data Visualisation
+    * Dash
+    * Matplotlib
+    * Plotly
+    * Seaborn
+  * ML libraries
+    * AdaBoost
+    * CatBoost
+    * LightGBM
+    * Scikit-Learn
+    * Shap
+    * XGBoost
 * R
-  * Tidyverse, contains:
-    * ggplot2
+  * Tidyverse
     * dplyr
-    * tidyr
+    * ggplot2
     * readr
     * tibble
+    * tidyr
 
 **Query Languages**
 
 * SQL
-  * Teradata
-  * PostgreSQL
+  * Athena/Trino SQL
   * BigQuery
+  * PostgreSQL
   * SQLite
+  * Teradata
 
 **Software**
 
-* Dashboard tools
-  * Looker Studio
-  * Tableau
-* LaTeX
-  * Overleaf
-* MS Office
-* Docker
-* Amazon SageMaker
-* SAP PowerDesigner
-* Atlassian stack
+* Amazon Web Services
+  * Athena
+  * Cloudwatch
+  * Glue
+  * Redshift
+  * S3
+  * SageMaker
+  * Secrets Manager
+* Atlassian
   * Jira
   * Confluence
+* Business Intelligence
+  * Looker Studio
+  * Tableau
+* Docker
+* Infrastructure as Code
+  * Terraform
+* LaTeX
+  * Overleaf
+* Microsoft Office
+* SAP PowerDesigner
+* Version Control
   * Bitbucket
-* GitHub
-* GitLab
+  * GitHub
+  * GitLab
 
 **Security**
 
