@@ -73,18 +73,18 @@ Volunteer experience/Personal projects
 Education
 ------
 
-* Open University student in Computer Science and Data Science, University of Helsinki, 2023-2024
+* **Open University student in Computer Science and Data Science, University of Helsinki, 2023-2024**
   * Taken courses: *Operating Systems*, *Introduction to Programming*, *Advanced Course in Programming*, *Big Data Platforms*, *Functional Programming I*, *Introduction in Logic I*, *Introduction to Logic II*, *Data Structures and Algorithms I*, *Data Structures and Algorithms II*, and *Devops with Docker: Part 1*.
 
-* MSc. in Information Studies: Data Science, University of Amsterdam, 2021-2022
+* **MSc. in Information Studies: Data Science, University of Amsterdam, 2021-2022**
   * Taken courses: *Fundamentals of Data Science*, *Statistics, Simulation and Optimisation*, *Applied Machine Learning*, *Data Systems Project*, *Causal Data Science*, *Big Data* and *Master Thesis*.
   * Thesis subject: *Detecting and classifying cyberbullying memes in Twitter posts*
   * Final GPA: 7.4/10
 
-* MSc. in Business Informatics (not completed: 61,5/120 ECTS, completed Applied Data Science profile: 45/30 ECTS), Utrecht University, 2020-2021
+* **MSc. in Business Informatics (not completed: 61,5/120 ECTS, completed Applied Data Science profile: 45/30 ECTS), Utrecht University, 2020-2021**
   * Taken courses: *Introducing Natural Sciences*, *Introduction to Business Informatics*, *Method Engineering*, *Data Science and Society*, *Big Data*, *Business Intelligence*, *Data Analysis and Visualisation*, *Algorithms in Finance*, and *Data Intensive Systems*.
 
-* BSc. in Business, IT & Management (currently HBO-ICT), Hogeschool Utrecht, 2014-2018
+* **BSc. in Business, IT & Management (currently HBO-ICT), Hogeschool Utrecht, 2014-2018**
   * Taken courses: *Enterprise Resource Planning*, *CRM & Selecting*, *Project Business Systems*, *Business Process Management Systems*, *Change and Consultancy Skills*, *University Project*, *Execute Your Own Project*, *Performance Management*, *Business IT Alignment*, *IT Service Management*, *Applied Research and Professional Skills 3*, *Internship*, *Business Environment*, *Business Development and Design*, *Big Data*, *Digital Company*, *Social Media Communication*, and *Graduation Assignment*.
   * Thesis subject: *Which data security tooling and best practices could ensure with GDPR-compliance in the data security segment?*
   * Minor: *Sport and Entertainment Marketing*
@@ -95,7 +95,7 @@ Technical Skills
 
 **Programming**
 
-* Python
+* ***Python***
   * Data Orchestration and Engineering Ops
     * Boto3
     * Awswrangler
@@ -118,7 +118,7 @@ Technical Skills
     * Scikit-Learn
     * Shap
     * XGBoost
-* R
+* ***R***
   * Tidyverse
     * dplyr
     * ggplot2
@@ -128,7 +128,7 @@ Technical Skills
 
 **Query Languages**
 
-* SQL
+* ***SQL***
   * Athena/Trino SQL
   * BigQuery
   * PostgreSQL
@@ -137,7 +137,7 @@ Technical Skills
 
 **Software**
 
-* Amazon Web Services (AWS)
+* ***Amazon Web Services (AWS)***
   * Athena
   * Cloudwatch
   * Glue
@@ -145,18 +145,18 @@ Technical Skills
   * S3
   * SageMaker
   * Secrets Manager
-* Atlassian
+* ***Atlassian***
   * Jira
   * Confluence
-* Business Intelligence
+* ***Business Intelligence***
   * Google Looker Studio
   * Tableau
-* Docker
-* Terraform
-* LaTeX
+* ***Docker***
+* ***Terraform***
+* ***LaTeX***
   * Overleaf
-* Microsoft Office
-* Google Cloud Platform (GCP)
+* ***Microsoft Office***
+* ***Google Cloud Platform (GCP)***
   * App Engine
   * BigQuery
   * Billing
@@ -164,18 +164,18 @@ Technical Skills
   * Cloud Run
   * Cloud Scheduler
   * IAM & Admin
-* SAP
+* ***SAP***
   * SAP PowerDesigner
-* Version Control
+* ***Version Control***
   * Bitbucket
   * GitHub
   * GitLab
 
 **Security**
 
-* GDPR
-* Information security
-* ISO 27001
+* ***GDPR***
+* ***Information security***
+* ***ISO 27001***
 
 Languages
 ------
