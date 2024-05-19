@@ -52,14 +52,19 @@ Work experience
     * Started as an intern. Research topic: design and implementation of the ISO 27001 framework.
     * Role was to actively contribute to Finaps' goal of creating insight, impact and trust for its clients within the field of information security.
 
-Volunteer experience
+Volunteer experience/Personal projects
 ------
+
+* **Ichi Ban Leiden**
+  * Data Engineer (March 2024 - Present)
+    * Support my parents' restaurant by gathering data sources for gaining insights about the performance of the restaurant.
+    * Used technologies: Google Cloud Platform (GCP), Python, SQL (BigQuery), and GitHub.
 
 * **Volt Europe**
   * Data Analyst (August 2021 - April 2023)
     * Support the data analytics team with dashboarding for different parties within Volt.
     * Operated as a Data Analytics facilitator within Volt Europe from December 2022 - April 2023.
-    * Used technologies: Python, SQL (PostgreSQL), GitLab, and Looker Studio
+    * Used technologies: Python, SQL (PostgreSQL), GitLab, and Looker Studio.
 
 * **KLM/Run in the Sun Foundation**
   * Volunteer Staff (November 2017)
@@ -69,7 +74,7 @@ Education
 ------
 
 * Open University student in Computer Science and Data Science, University of Helsinki, 2023-2024
-  * Taken courses: *Operating Systems*, *Introduction to Programming*, *Advanced Course in Programming*, *Big Data Platforms*, *Introduction in Logic I*, *Data Structures and Algorithms I* and *Devops with Docker: Part 1*.
+  * Taken courses: *Operating Systems*, *Introduction to Programming*, *Advanced Course in Programming*, *Big Data Platforms*, *Functional Programming I*, *Introduction in Logic I*, *Introduction to Logic II*, *Data Structures and Algorithms I*, *Data Structures and Algorithms II*, and *Devops with Docker: Part 1*.
 
 * MSc. in Information Studies: Data Science, University of Amsterdam, 2021-2022
   * Taken courses: *Fundamentals of Data Science*, *Statistics, Simulation and Optimisation*, *Applied Machine Learning*, *Data Systems Project*, *Causal Data Science*, *Big Data* and *Master Thesis*.
@@ -91,6 +96,11 @@ Technical Skills
 **Programming**
 
 * Python
+  * Data Orchestration and Engineering Ops
+    * Boto3
+    * Awswrangler
+    * Google
+    * Airflow
   * Data Wrangling and Transformation
     * NumPy
     * Pandas
@@ -127,7 +137,7 @@ Technical Skills
 
 **Software**
 
-* Amazon Web Services
+* Amazon Web Services (AWS)
   * Athena
   * Cloudwatch
   * Glue
@@ -139,15 +149,23 @@ Technical Skills
   * Jira
   * Confluence
 * Business Intelligence
-  * Looker Studio
+  * Google Looker Studio
   * Tableau
 * Docker
-* Infrastructure as Code
-  * Terraform
+* Terraform
 * LaTeX
   * Overleaf
 * Microsoft Office
-* SAP PowerDesigner
+* Google Cloud Platform (GCP)
+  * App Engine
+  * BigQuery
+  * Billing
+  * Cloud Functions
+  * Cloud Run
+  * Cloud Scheduler
+  * IAM & Admin
+* SAP
+  * SAP PowerDesigner
 * Version Control
   * Bitbucket
   * GitHub
