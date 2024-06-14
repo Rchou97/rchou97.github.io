@@ -17,7 +17,7 @@ Work experience
 * **De Volksbank**
   * Data Engineer (November 2023 - Present)
     * Work on the expansion of the cloud data warehouse of De Volksbank within the Client Interface domain.
-    * Used technologies: Amazon Web Services (AWS), Jira, Confluence, GitHub, SQL (Teradata), Terraform and Python.
+    * Used technologies: Amazon Web Services (AWS), Jira, Confluence, GitHub, SQL (Teradata/Trino), Airflow, Terraform and Python.
   * Junior Data Engineer BI (September 2022 - October 2023)
     * Worked on the dashboarding and the functional data warehouse of De Volksbank within the Risk & Compliance domain.
     * Used technologies: SQL (Teradata), Jira, Confluence, BitBucket, SAP PowerDesigner and Tableau.
@@ -145,6 +145,8 @@ Technical Skills
   * S3
   * SageMaker
   * Secrets Manager
+* ***Apache***
+  * Airflow
 * ***Atlassian***
   * Jira
   * Confluence
