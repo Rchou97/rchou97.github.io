@@ -16,7 +16,8 @@ Work experience
 
 * **De Volksbank**
   * Data Engineer (November 2023 - Present)
-    * Work on the expansion of the cloud data warehouse of De Volksbank within the Client Interface domain.
+    * Work on the expansion of the AWS cloud data warehouse of De Volksbank within the Client Interface domain.
+    * Engineered automated data pipelines for marketing campaigns and personalised content for the respective De Volksbank brands.
     * Used technologies: Amazon Web Services (AWS), Jira, Confluence, GitHub, SQL (Teradata/Trino), Airflow, Terraform and Python.
   * Junior Data Engineer BI (September 2022 - October 2023)
     * Worked on the dashboarding and the functional data warehouse of De Volksbank within the Risk & Compliance domain.
@@ -32,19 +33,14 @@ Work experience
     * Collaborate with the forecasting data team to forecast potential sales in multiple seasonal product types of Coolblue.
     * Used technologies: SQL (BigQuery), Atlassian stack (Jira, Confluence and Bitbucket), GitHub and Python.
 
-* **University of Amsterdam**
-  * Graduate Research Intern (February 2022 - July 2022)
-    * Performed research on multi-modal classification models that detects and classifies cyberbullying within memes posted on Twitter.
-    * Used technologies: Python, Amazon SageMaker, GitHub, and Twitter Developer API.
-
 * **Finaps**
   * Process Engineer (November 2019 - April 2022)
     * Actively contributed to Finaps' goal of creating insight, impact and trust for our clients.
-    * Mainly active in the fields of information security and quality management.
+    * Mainly active in the fields of information security (ISO 27001) and quality management (ISO 9001) frameworks.
 
 * **Accenture**
   * Associate (March 2018 - September 2019)
-    * Started as an undergraduate intern. Research topic: scoped on data security tooling and best practices to ensure GDPR-compliance in the data security segment.
+    * Started as an undergraduate intern where my research was scoped on data security tooling and applicable best practices to ensure GDPR compliance.
     * Project role was at the business operations side as a PMO practitioner, which was delivering account support at one of Accenture's Dutch accounts.
 
 * **Finaps**
@@ -79,6 +75,8 @@ Education
 * **MSc. in Information Studies: Data Science, University of Amsterdam, 2021-2022**
   * Taken courses: *Fundamentals of Data Science*, *Statistics, Simulation and Optimisation*, *Applied Machine Learning*, *Data Systems Project*, *Causal Data Science*, *Big Data* and *Master Thesis*.
   * Thesis subject: *Detecting and classifying cyberbullying memes in Twitter posts*
+    * Performed research within the University of Amsterdam on multi-modal classification models that detect and classify cyberbullying within memes posted on Twitter.
+    * Used technologies: Python, Amazon SageMaker, GitHub, and Twitter Developer API.
   * Final GPA: 7.4/10
 
 * **MSc. in Business Informatics (not completed: 61,5/120 ECTS, completed Applied Data Science profile: 45/30 ECTS), Utrecht University, 2020-2021**
@@ -86,7 +84,8 @@ Education
 
 * **BSc. in Business, IT & Management (currently HBO-ICT), Hogeschool Utrecht, 2014-2018**
   * Taken courses: *Enterprise Resource Planning*, *CRM & Selecting*, *Project Business Systems*, *Business Process Management Systems*, *Change and Consultancy Skills*, *University Project*, *Execute Your Own Project*, *Performance Management*, *Business IT Alignment*, *IT Service Management*, *Applied Research and Professional Skills 3*, *Internship*, *Business Environment*, *Business Development and Design*, *Big Data*, *Digital Company*, *Social Media Communication*, and *Graduation Assignment*.
-  * Thesis subject: *Which data security tooling and best practices could ensure with GDPR-compliance in the data security segment?*
+  * Thesis subject: *Which data security tooling and best practices could ensure with GDPR compliance in the data security segment?*
+    * Performed research within Accenture Technology at the Data Management department on data security tooling and the respective best practices that companies can adhere to for GDPR compliance.
   * Minor: *Sport and Entertainment Marketing*
   * Final GPA: 7.3/10
   
