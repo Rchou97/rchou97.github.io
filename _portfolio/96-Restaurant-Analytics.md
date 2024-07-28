@@ -1,6 +1,6 @@
 ---
 title: "Data Engineering within the hospitality industry"
-excerpt: "A brief summary of the project that my brother and I am doing to perform analytics in the hospitality industry."
+excerpt: "A brief summary of the project that my brother and I am doing to perform analytics in the hospitality industry.<br/><img src='/images/example-dashboard.png'>"
 collection: portfolio
 ---
 **July 2024**
