@@ -1,9 +1,11 @@
 ---
 title: "Flight Prediction Challenge - Kaggle"
-excerpt: "The goal in this Kaggle challenge is to predict the flight delays in the month July. Submissions were evaluated by using the Mean Squared Error (MSE) of the actual values minus the predicted arrival delay values of the machine learning model."
+excerpt: "The goal in this Kaggle challenge is to predict the flight delays in the month July. Submissions were evaluated by using the Mean Squared Error (MSE) of the actual values minus the predicted arrival delay values of the machine learning model.<br/><img src='/images/flight-delay-prediction.png'>"
 collection: portfolio
 ---
 **December 2021**
+
+<img src='/images/flight-delay-prediction.png' style="max-width: 100%; height: auto;">
 
 The challenge was to predict the ARRIVAL_DELAY column. The training data, test data and some additional datasets were provided. Below, you may find some explanations for some of the data rows:
 

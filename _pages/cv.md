@@ -18,20 +18,20 @@ Work experience
   * Data Engineer (November 2023 - Present)
     * Work on the expansion of the AWS cloud data warehouse of De Volksbank within the Client Interface domain.
     * Engineered automated data pipelines for marketing campaigns and personalised content for the respective De Volksbank brands.
-    * Used technologies: Amazon Web Services (AWS), Jira, Confluence, GitHub, SQL (Teradata/Trino), Airflow, Terraform and Python.
+    * Used technologies: Amazon Web Services (AWS), Jira, Confluence, GitHub, SQL (Teradata/Trino), Airflow, Terraform, and Python.
   * Junior Data Engineer BI (September 2022 - October 2023)
     * Worked on the dashboarding and the functional data warehouse of De Volksbank within the Risk & Compliance domain.
     * Used technologies: SQL (Teradata), Jira, Confluence, BitBucket, SAP PowerDesigner and Tableau.
 
 * **Bit Academy**
   * Part of the Team - Community Coach (January 2023 - August 2023)
-    * Facilitate and coach people with coding problems for the Bit Academy Pro courses in Python, SQL and other open-source technologies.
-    * Used technologies: SQL (SQLite), GitLab and Python.
+    * Facilitate and coach people with coding problems for the Bit Academy Pro courses in Python, SQL, and other open-source technologies.
+    * Used technologies: SQL (SQLite), GitLab, and Python.
 
 * **Coolblue**
   * Data Science Intern (April 2022 - August 2022)
     * Collaborate with the forecasting data team to forecast potential sales in multiple seasonal product types of Coolblue.
-    * Used technologies: SQL (BigQuery), Atlassian stack (Jira, Confluence and Bitbucket), GitHub and Python.
+    * Used technologies: SQL (BigQuery), Atlassian stack (Jira, Confluence and Bitbucket), GitHub, and Python.
 
 * **Finaps**
   * Process Engineer (November 2019 - April 2022)
@@ -41,7 +41,7 @@ Work experience
 * **Accenture**
   * Associate (March 2018 - September 2019)
     * Started as an undergraduate intern where my research was scoped on data security tooling and applicable best practices to ensure GDPR compliance.
-    * Project role was at the business operations side as a PMO practitioner, which was delivering account support at one of Accenture's Dutch accounts.
+    * Project role was on the business operations side as a PMO practitioner, which was delivering account support at one of Accenture's Dutch accounts.
 
 * **Finaps**
   * Junior Information Security Specialist (August 2016 - December 2017)
@@ -58,7 +58,7 @@ Volunteer experience/Personal projects
 
 * **Volt Europe**
   * Data Analyst (August 2021 - April 2023)
-    * Support the data analytics team with dashboarding for different parties within Volt.
+    * Support the data analytics team with developing dashboards for different parties within Volt.
     * Operated as a Data Analytics facilitator within Volt Europe from December 2022 - April 2023.
     * Used technologies: Python, SQL (PostgreSQL), GitLab, and Looker Studio.
 
