@@ -1,5 +1,5 @@
 ---
-title: "Flight Prediction Challenge - Kaggle"
+title: "Flight Prediction Kaggle Challenge - Uni Project"
 excerpt: "The goal in this Kaggle challenge is to predict the flight delays in the month July. Submissions were evaluated by using the Mean Squared Error (MSE) of the actual values minus the predicted arrival delay values of the machine learning model.<br/><img src='/images/flight-delay-prediction.png'>"
 collection: portfolio
 ---

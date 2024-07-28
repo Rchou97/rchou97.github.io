@@ -1,5 +1,5 @@
 ---
-title: "Data Engineering within the hospitality industry"
+title: "Data Engineering within the hospitality industry - Personal Project"
 excerpt: "A brief summary of the project that my brother and I am doing to perform analytics in the hospitality industry.<br/><img src='/images/example-dashboard.png'>"
 collection: portfolio
 ---
@@ -40,3 +40,11 @@ And for project management and documentation, the following tools were used:
 
 * Notion
 * draw.io
+
+Lessons Learned
+------
+Since we have started migrating from a Google Sheet to the services provided by the Google Cloud Platform,
+the following lessons learned were drawn from experiments and proof-of-concepts (POC) within our environments: 
+
+* In June 2024, we have done an experiment to increase the computing from 0 instances to 1 instance being on all the time. This resulted in an increase of €20,- in our billing for that particular month. Since our app is still in an experimental phase, we have decided to set the application back again to a cold warmup setup. This lead to a cost of approximately €10,- per month, mostly resulting from the App Engine service.  
+* Also in June 2024, a POC was done with Google Cloud Composer, which was replacing the dependencies via separate Cloud Functions. Airflow DAGs were created to run it. Even though the functionalities were working well, the costs skyrocketed due to Cloud Composer being active all the time. This resulted in an increase of costs of €15,- for approximately 4 days. This resulted in the decision to just chain all the Cloud Functions together. Whenever the final "Processed" Cloud Function job was dependent on two Cloud Functions jobs coming from the "Raw" layer, then the final job was scheduled 30 minutes later. This to prevent any delays coming from the previous jobs. It is working fine till date, and the costs decreased again to only the App Engine bills.
