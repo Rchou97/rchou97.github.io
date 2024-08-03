@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For a more extensive resume in PDF format, you can find it [here](https://rchou97.github.io/files/Richard_Chou_CV.pdf).
+For a more extensive résumé in PDF format, you can find it [here](https://rchou97.github.io/files/Richard_Chou_CV.pdf).
 
 Work experience
 ------
@@ -18,9 +18,11 @@ Work experience
   * Data Engineer (November 2023 - Present)
     * Work on the expansion of the AWS cloud data warehouse of De Volksbank within the Client Interface domain.
     * Engineered automated data pipelines for marketing campaigns and personalised content for the respective De Volksbank brands.
+    * Onboarding new hires within the team and supporting them in their user stories.
     * Used technologies: Amazon Web Services (AWS), Jira, Confluence, GitHub, SQL (Teradata/Trino), Airflow, Terraform, and Python.
   * Junior Data Engineer BI (September 2022 - October 2023)
-    * Worked on the dashboarding and the functional data warehouse of De Volksbank within the Risk & Compliance domain.
+    * Further developing and implementing the functional data warehouse within De Volksbank. 
+    * Work on dashboard development and data migrations for credit risk model monitoring. 
     * Used technologies: SQL (Teradata), Jira, Confluence, BitBucket, SAP PowerDesigner and Tableau.
 
 * **Bit Academy**
@@ -30,23 +32,30 @@ Work experience
 
 * **Coolblue**
   * Data Science Intern (April 2022 - August 2022)
-    * Collaborate with the forecasting data team to forecast potential sales in multiple seasonal product types of Coolblue.
+    * Worked on the weekly potential sales and demand forecast for one of the product types within Coolblue. 
+    * Group different products based on their sales behaviours and propose different forecasting approaches for the selected product types.
     * Used technologies: SQL (BigQuery), Atlassian stack (Jira, Confluence and Bitbucket), GitHub, and Python.
 
 * **Finaps**
   * Process Engineer (November 2019 - April 2022)
-    * Actively contributed to Finaps' goal of creating insight, impact and trust for our clients.
+    * Implementation and maintenance of the information security and quality management systems. 
+    * Worked on several continuous improvement initiatives in the form of chapters.
+    * Part of the tactical stream within the organisation. 
+    * Mentored several (graduate) interns with their projects and research. 
     * Mainly active in the fields of information security (ISO 27001) and quality management (ISO 9001) frameworks.
 
 * **Accenture**
   * Associate (March 2018 - September 2019)
-    * Started as an undergraduate intern where my research was scoped on data security tooling and applicable best practices to ensure GDPR compliance.
-    * Project role was on the business operations side as a PMO practitioner, which was delivering account support at one of Accenture's Dutch accounts.
+    * Started as an undergraduate intern, which was scoped on data security tooling and best practices for GDPR compliance (March 2018 - August 2018).
+    * Provided project management support across Accenture's Dutch accounts within the chemical industry.
+    * Tasks consist of managing project financials, calculating price margins for new projects and extensions, and collaborating with the project managers and managing directors to win new deals.
+    * Mentored several (graduate) interns with their projects and research. 
 
 * **Finaps**
   * Junior Information Security Specialist (August 2016 - December 2017)
-    * Started as an intern. Research topic: design and implementation of the ISO 27001 framework.
-    * Role was to actively contribute to Finaps' goal of creating insight, impact and trust for its clients within the field of information security.
+    * Started as an intern focused on implementing the ISO 27001 standard within the organisation (August 2016 - January 2017). 
+    * Managed to set up the ISO 27001 framework in a time frame of 7 months within the organisation. 
+    * Worked on internal audits, writing information security policies, and performing risk assessments when (technology) changes occurred within the organisation. 
 
 Volunteer experience/Personal projects
 ------
@@ -54,12 +63,14 @@ Volunteer experience/Personal projects
 * **Ichi Ban Leiden**
   * Data Engineer (March 2024 - Present)
     * Support my parents' restaurant by gathering data sources for gaining insights about the performance of the restaurant.
+    * Developed the platform for app deployment, data warehousing and data engineering, see [link](https://rchou97.github.io/portfolio/96-Restaurant-Analytics/) for more information. 
     * Used technologies: Google Cloud Platform (GCP), Python, SQL (BigQuery), and GitHub.
 
 * **Volt Europe**
   * Data Analyst (August 2021 - April 2023)
     * Support the data analytics team with developing dashboards for different parties within Volt.
     * Operated as a Data Analytics facilitator within Volt Europe from December 2022 - April 2023.
+    * Manage, onboard and delegate tasks to several Volt members related to dashboarding.
     * Used technologies: Python, SQL (PostgreSQL), GitLab, and Looker Studio.
 
 * **KLM/Run in the Sun Foundation**
