@@ -13,6 +13,8 @@ This leads to the personal project of my brother and me to initiate a platform f
 
 After he managed to set up the first version, he was able to run the application locally in Flask. It was time for me to step in and create new data sources, create automated data pipelines and set up a platform for deployment. 
 
+**Note**: This page will get updated along the way due to new insights and updates towards the application. 
+
 Design
 ------
 The following tooling has been used for designing, managing and deploying the app and ETL services: 
@@ -27,7 +29,7 @@ The following tooling has been used for designing, managing and deploying the ap
     * IAM & Admin: for providing and revoking access for different users and GCP services.
   * Data Engineering
     * BigQuery: used as data warehouse for analytics and powering the dashboard with data.
-    * Cloud Functions: functions which are created in Python for the different ETL stages with all targeted to the BigQuery data warehouse.
+    * Cloud Run Functions: functions which are created in Python for the different ETL stages with all targeted to the BigQuery data warehouse.
     * Cloud Scheduler: the scheduled triggers for single Cloud Functions.
 * Python
 * SQL (BigQuery)
@@ -41,10 +43,18 @@ And for project management and documentation, the following tools were used:
 * Notion
 * draw.io
 
+Data Models
+------
+The tables that we have taken into account for this entire platform is the following: 
+
+<img src='/images/data-model-app-source-data-model.png' style="max-width: 100%; height: auto;">
+
+
 Lessons Learned
 ------
 Since we have started migrating from a Google Sheet to the services provided by the Google Cloud Platform,
 the following lessons learned were drawn from experiments and proof-of-concepts (POC) within our environments: 
 
-* In June 2024, we have done an experiment to increase the computing from 0 instances to 1 instance being on all the time. This resulted in an increase of €20,- in our billing for that particular month. Since our app is still in an experimental phase, we have decided to set the application back again to a cold warmup setup. This lead to a cost of approximately €10,- per month, mostly resulting from the App Engine service.  
+* In June 2024, we have done an experiment to increase the computing from 0 instances to 1 instance being on all the time. This resulted in an increase of €20,- in our billing for that particular month. Since our app is still in an experimental phase, we have decided to set the application back again to a cold warmup setup. This lead to a cost of approximately €10,- per month, mostly resulting from the App Engine service.
 * Also in June 2024, a POC was done with Google Cloud Composer, which was replacing the dependencies via separate Cloud Functions. Airflow DAGs were created to run it. Even though the functionalities were working well, the costs skyrocketed due to Cloud Composer being active all the time. This resulted in an increase of costs of €15,- for approximately 4 days. This resulted in the decision to just chain all the Cloud Functions together. Whenever the final "Processed" Cloud Function job was dependent on two Cloud Functions jobs coming from the "Raw" layer, then the final job was scheduled 30 minutes later. This to prevent any delays coming from the previous jobs. It is working fine till date, and the costs decreased again to only the App Engine bills.
+* For August 2024, a small configuration experiment was done to decrease the default value of `0.6` of `target_cpu_utilization` and `target_throughput_utilization` to `0.5`. This resulted in a quicker and better performing web app, whereas the costs did not exceed the €10,- for August.

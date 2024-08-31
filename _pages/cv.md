@@ -18,7 +18,7 @@ Work experience
   * Data Engineer (November 2023 - Present)
     * Work on the expansion of the AWS cloud data warehouse of De Volksbank within the Client Interface domain.
     * Engineered automated data pipelines for marketing campaigns and personalised content for the respective De Volksbank brands.
-    * Onboarding new hires within the team and supporting them in their user stories.
+    * Onboarding and mentoring new hires within the team and supporting them in their user stories.
     * Used technologies: Amazon Web Services (AWS), Jira, Confluence, GitHub, SQL (Teradata/Trino), Airflow, Terraform, and Python.
   * Junior Data Engineer BI (September 2022 - October 2023)
     * Further developing and implementing the functional data warehouse within De Volksbank. 
