@@ -16,7 +16,7 @@ Work experience
 
 * **De Volksbank**
   * Data Engineer (November 2023 - Present)
-    * Work on the expansion of the AWS cloud data warehouse of De Volksbank within the Client Interface domain.
+    * Work on the expansion of the AWS cloud data warehouse at De Volksbank within the Client Interface domain.
     * Engineered automated data pipelines for marketing campaigns and personalised content for the respective De Volksbank brands.
     * Onboarding and mentoring new hires within the team and supporting them in their user stories.
     * Used technologies: Amazon Web Services (AWS), Jira, Confluence, GitHub, SQL (Teradata/Trino), Airflow, Terraform, and Python.
@@ -81,7 +81,7 @@ Education
 ------
 
 * **Open University student in Computer Science and Data Science, University of Helsinki, 2023-2024**
-  * Taken courses: *Operating Systems*, *Introduction to Programming*, *Advanced Course in Programming*, *Big Data Platforms*, *Functional Programming I*, *Introduction in Logic I*, *Introduction to Logic II*, *Data Structures and Algorithms I*, *Data Structures and Algorithms II*, and *Devops with Docker: Part 1*.
+  * Taken courses: *Operating Systems*, *Introduction to Programming*, *Advanced Course in Programming*, *Big Data Platforms*, *Functional Programming I*, *Introduction in Logic I*, *Introduction to Logic II*, *Data Structures and Algorithms I*, *Data Structures and Algorithms II*, *Working with Text in Python*, *Devops with Docker: Part 1*, and *Devops with Docker: Part 2*.
 
 * **MSc. in Information Studies: Data Science, University of Amsterdam, 2021-2022**
   * Taken courses: *Fundamentals of Data Science*, *Statistics, Simulation and Optimisation*, *Applied Machine Learning*, *Data Systems Project*, *Causal Data Science*, *Big Data* and *Master Thesis*.
@@ -93,7 +93,7 @@ Education
 * **MSc. in Business Informatics (not completed: 61,5/120 ECTS, completed Applied Data Science profile: 45/30 ECTS), Utrecht University, 2020-2021**
   * Taken courses: *Introducing Natural Sciences*, *Introduction to Business Informatics*, *Method Engineering*, *Data Science and Society*, *Big Data*, *Business Intelligence*, *Data Analysis and Visualisation*, *Algorithms in Finance*, and *Data Intensive Systems*.
 
-* **BSc. in Business, IT & Management (currently HBO-ICT), Hogeschool Utrecht, 2014-2018**
+* **BSc. in Business, IT & Management (currently HBO-ICT), Hogeschool Utrecht/University of Applied Sciences Utrecht, 2014-2018**
   * Taken courses: *Enterprise Resource Planning*, *CRM & Selecting*, *Project Business Systems*, *Business Process Management Systems*, *Change and Consultancy Skills*, *University Project*, *Execute Your Own Project*, *Performance Management*, *Business IT Alignment*, *IT Service Management*, *Applied Research and Professional Skills 3*, *Internship*, *Business Environment*, *Business Development and Design*, *Big Data*, *Digital Company*, *Social Media Communication*, and *Graduation Assignment*.
   * Thesis subject: *Which data security tooling and best practices could ensure with GDPR compliance in the data security segment?*
     * Performed research within Accenture Technology at the Data Management department on data security tooling and the respective best practices that companies can adhere to for GDPR compliance.
