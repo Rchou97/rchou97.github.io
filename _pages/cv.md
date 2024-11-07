@@ -16,72 +16,76 @@ Work experience
 
 * **De Volksbank**
   * Data Engineer (November 2023 - Present)
-    * Work on the expansion of the AWS cloud data warehouse at De Volksbank within the Client Interface domain.
-    * Engineered automated data pipelines for marketing campaigns and personalised content for the respective De Volksbank brands.
-    * Onboarding and mentoring new hires within the team and supporting them in their user stories.
-    * Used technologies: Amazon Web Services (AWS), Jira, Confluence, GitHub, SQL (Teradata/Trino), Airflow, Terraform, and Python.
+    * Work on expanding the cloud data lakehouse using marketing and financial data from the on-premise data warehouse within the Client Interface domain. 
+    * Engineered over 30 automated data pipelines for marketing campaigns and personalised content for the De Volksbank brands using Airflow and Athena/Trino SQL.
+    * Onboarding new hires within the team and mentoring them in their user stories and working methods.
+    * Used technologies: Amazon Web Services (AWS), SQL (Teradata/Trino), Jira, Confluence, GitHub, Airflow, Terraform and Python (PySpark). 
   * Junior Data Engineer BI (September 2022 - October 2023)
     * Further developing and implementing the functional data warehouse within De Volksbank. 
-    * Work on dashboard development and data migrations for credit risk model monitoring. 
-    * Used technologies: SQL (Teradata), Jira, Confluence, BitBucket, SAP PowerDesigner and Tableau.
+    * Designed, aligned, and developed new BI dashboards and features in existing BI dashboards for credit risk model monitoring within Tableau. 
+    * Worked on data migrations within the on-premise data warehouse to prepare credit risk monitoring datasets using Teradata SQL and SAP PowerDesigner. 
+    * Used technologies: SQL (Teradata), Jira, Confluence, BitBucket, SAP PowerDesigner, and Tableau. 
 
 * **Bit Academy**
   * Part of the Team - Community Coach (January 2023 - August 2023)
-    * Facilitate and coach people with coding problems for the Bit Academy Pro courses in Python, SQL, and other open-source technologies.
-    * Used technologies: SQL (SQLite), GitLab, and Python.
+    * Facilitated and coached over 20 students with coding problems for the Bit Academy Pro courses in Python, SQL, and other open-source technologies. 
+    * Mentored 5 students who were interested in a career in data by sharing industry and theoretical knowledge within the data science, data analytics, and data engineering domains. 
+    * Used technologies: SQL (SQLite), GitLab, and Python. 
 
 * **Coolblue**
   * Data Science Intern (April 2022 - August 2022)
     * Worked on the weekly potential sales and demand forecast for one of the product types within Coolblue. 
-    * Group different products based on their sales behaviours and propose different forecasting approaches for the selected product types.
-    * Used technologies: SQL (BigQuery), Atlassian stack (Jira, Confluence and Bitbucket), GitHub, and Python.
+    * Group different products based on their sales behaviours and propose different machine learning forecasting approaches for the selected product types. 
+    * Used technologies: SQL (BigQuery), Jira, Confluence, GitHub, and Python. 
 
 * **Finaps**
   * Process Engineer (November 2019 - April 2022)
-    * Implementation and maintenance of the information security and quality management systems. 
-    * Worked on several continuous improvement initiatives in the form of chapters.
-    * Part of the tactical stream within the organisation. 
-    * Mentored several (graduate) interns with their projects and research. 
-    * Mainly active in the fields of information security (ISO 27001) and quality management (ISO 9001) frameworks.
+    * Implementation and maintenance of the information security and quality management systems following the ISO 9001 and 27001 standards. 
+    * Worked on several continuous improvement initiatives in the form of research chapters and respective ISO standards.
+    * Part of the tactical stream within the organisation by initialising research chapter teams within the software engineering and data domains. 
+    * Mentored 2 (graduate) interns with their projects and research. 
+    * Milestone: achieving the ISO 9001 certification with Finaps in August 2021. 
 
 * **Accenture**
   * Associate (March 2018 - September 2019)
     * Started as an undergraduate intern, which was scoped on data security tooling and best practices for GDPR compliance (March 2018 - August 2018).
-    * Provided project management support across Accenture's Dutch accounts within the chemical industry.
-    * Tasks consist of managing project financials, calculating price margins for new projects and extensions, and collaborating with the project managers and managing directors to win new deals.
-    * Mentored several (graduate) interns with their projects and research. 
+    * Provided project management support across Accenture's Dutch accounts within the chemical resources industry.
+    * Tasks consist of managing project financials, calculating price margins for new consultancy projects and extensions, and collaborating with the project managers and managing directors to win new deals.
+    * Mentored several (graduate) interns with their projects and research.
 
 * **Finaps**
   * Junior Information Security Specialist (August 2016 - December 2017)
     * Started as an intern focused on implementing the ISO 27001 standard within the organisation (August 2016 - January 2017). 
     * Managed to set up the ISO 27001 framework in a time frame of 7 months within the organisation. 
-    * Worked on internal audits, writing information security policies, and performing risk assessments when (technology) changes occurred within the organisation. 
+    * Worked on internal audits, writing information security and GDPR policies, and performing risk assessments when (technology) changes occurred within the organisation. 
+    * Milestone: achieving the ISO 27001 certification with Finaps in April 2017. 
 
 Volunteer experience/Personal projects
 ------
 
 * **Ichi Ban Leiden**
   * Data Engineer (March 2024 - Present)
-    * Support my parents' restaurant by gathering data sources for gaining insights about the performance of the restaurant.
-    * Developed the platform for app deployment, data warehousing and data engineering, see [link](https://rchou97.github.io/portfolio/96-Restaurant-Analytics/) for more information. 
+    * Support my parents’ restaurant by gathering data sources for gaining insights about the restaurant's performance.
+    * Developed the platform for app deployment, data warehousing, and data engineering, see [link](https://rchou97.github.io/portfolio/96-Restaurant-Analytics/) for more information. 
     * Used technologies: Google Cloud Platform (GCP), Python, SQL (BigQuery), and GitHub.
 
 * **Volt Europe**
   * Data Analyst (August 2021 - April 2023)
-    * Support the data analytics team with developing dashboards for different parties within Volt.
-    * Operated as a Data Analytics facilitator within Volt Europe from December 2022 - April 2023.
-    * Manage, onboard and delegate tasks to several Volt members related to dashboarding.
-    * Used technologies: Python, SQL (PostgreSQL), GitLab, and Looker Studio.
+    * Volunteered as a data analyst facilitator for the Data Analytics team of Volt Europe. 
+    * Performing ETL on raw data to make various dashboards for different stakeholders within Volt. 
+    * Manage, onboard, and delegate tasks to several Volt members related to BI dashboarding. 
+    * Used technologies: SQL (PostgreSQL), Python, GitLab, and Looker Studio. 
 
 * **KLM/Run in the Sun Foundation**
   * Volunteer Staff (November 2017)
-    * Worked for one month as a volunteer for the KLM Curaçao Marathon, which was organised by the Run in the Sun Foundation.
+    * Volunteered for 1 month as a facility officer for the participants of this marathon. 
+    * Tasks varied from handing out drinks and medals to the participants to setting up the event.
 
 Education
 ------
 
 * **Open University student in Computer Science and Data Science, University of Helsinki, 2023-2024**
-  * Taken courses: *Operating Systems*, *Introduction to Programming*, *Advanced Course in Programming*, *Big Data Platforms*, *Functional Programming I*, *Introduction in Logic I*, *Introduction to Logic II*, *Data Structures and Algorithms I*, *Data Structures and Algorithms II*, *Working with Text in Python*, *Devops with Docker: Part 1*, and *Devops with Docker: Part 2*.
+  * Taken courses: *Operating Systems*, *Introduction to Programming*, *Advanced Course in Programming*, *Big Data Platforms*, *Functional Programming I*, *Introduction in Logic I*, *Introduction to Logic II*, *Data Structures and Algorithms I*, *Data Structures and Algorithms II*, *Working with Text in Python*, *Calculus 1A: Limits and differentiation*, *Devops with Docker: Part 1*, and *Devops with Docker: Part 2*.
 
 * **MSc. in Information Studies: Data Science, University of Amsterdam, 2021-2022**
   * Taken courses: *Fundamentals of Data Science*, *Statistics, Simulation and Optimisation*, *Applied Machine Learning*, *Data Systems Project*, *Causal Data Science*, *Big Data* and *Master Thesis*.
