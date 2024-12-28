@@ -66,7 +66,7 @@ Volunteer experience/Personal projects
 * **Ichi Ban Leiden**
   * Data Engineer (March 2024 - Present)
     * Support my parents’ restaurant by gathering data sources for gaining insights about the restaurant's performance.
-    * Developed the platform for app deployment, data warehousing, and data engineering, see [link](https://rchou97.github.io/portfolio/96-Restaurant-Analytics/) for more information. 
+    * Developing the platform for app deployment, data warehousing, and data engineering, see [link](https://rchou97.github.io/portfolio/96-Restaurant-Analytics/) for more information. 
     * Used technologies: Google Cloud Platform (GCP), Python, SQL (BigQuery), and GitHub.
 
 * **Volt Europe**
@@ -103,7 +103,14 @@ Education
     * Performed research within Accenture Technology at the Data Management department on data security tooling and the respective best practices that companies can adhere to for GDPR compliance.
   * Minor: *Sport and Entertainment Marketing*
   * Final GPA: 7.3/10
-  
+
+Certifications
+------
+
+* ***Scrum***
+  * [Professional Scrum Master I (PSM I)](https://www.credly.com/badges/024d9a0d-d4c2-4ee0-b75f-d1b8ca9d36d5)
+* ***Amazon Web Service (AWS)***
+
 Technical Skills
 ------
 
