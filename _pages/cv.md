@@ -29,7 +29,7 @@ Work experience
 * **Bit Academy**
   * Part of the Team - Community Coach (January 2023 - August 2023)
     * Facilitated and coached over 20 students with coding problems for the Bit Academy Pro courses in Python, SQL, and other open-source technologies. 
-    * Mentored 5 students who were interested in a career in data by sharing industry and theoretical knowledge within the data science, data analytics, and data engineering domains. 
+    * Mentored 5 students interested in a career in data by sharing industry and theoretical knowledge within the data science, data analytics, and data engineering domains. 
     * Used technologies: SQL (SQLite), GitLab, and Python. 
 
 * **Coolblue**
