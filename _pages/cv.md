@@ -83,9 +83,10 @@ Volunteer experience/Personal projects
 
 Education
 ------
+* **MSc. in Artificial Intelligence, University of Texas at Austin, 2025-Present**
 
-* **Open University student in Computer Science and Data Science, University of Helsinki, 2023-2024**
-  * Taken courses: *Operating Systems*, *Introduction to Programming*, *Advanced Course in Programming*, *Big Data Platforms*, *Functional Programming I*, *Introduction in Logic I*, *Introduction to Logic II*, *Data Structures and Algorithms I*, *Data Structures and Algorithms II*, *Working with Text in Python*, *Calculus 1A: Limits and differentiation*, *Devops with Docker: Part 1*, and *Devops with Docker: Part 2*.
+* **Open University student in Computer Science and Data Science, University of Helsinki, 2023-2025**
+  * Taken courses: *Operating Systems*, *Introduction to Programming*, *Advanced Course in Programming*, *Big Data Platforms*, *Functional Programming I*, *Introduction in Logic I*, *Introduction to Logic II*, *Data Structures and Algorithms I*, *Data Structures and Algorithms II*, *Working with Text in Python*, *Calculus 1A: Limits and differentiation*, *Calculus 1B: Integration*, *Devops with Docker: Part 1*, and *Devops with Docker: Part 2*.
 
 * **MSc. in Information Studies: Data Science, University of Amsterdam, 2021-2022**
   * Taken courses: *Fundamentals of Data Science*, *Statistics, Simulation and Optimisation*, *Applied Machine Learning*, *Data Systems Project*, *Causal Data Science*, *Big Data* and *Master Thesis*.
