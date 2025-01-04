@@ -111,7 +111,7 @@ Certifications
 * ***Scrum***
   * [Professional Scrum Master I (PSM I)](https://www.credly.com/badges/024d9a0d-d4c2-4ee0-b75f-d1b8ca9d36d5)
 * ***Amazon Web Service (AWS)***
-  * AWS Certified Cloud Practitioner
+  * [AWS Certified Cloud Practitioner](https://www.credly.com/badges/8eb83159-b3b3-4cf4-a173-b6017e6c0eb7/public_url)
 
 Technical Skills
 ------
