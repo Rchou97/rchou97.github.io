@@ -122,7 +122,7 @@ Technical Skills
   * Data Orchestration and Engineering Ops
     * Boto3
     * Awswrangler
-    * Google
+    * Google Cloud Composer
     * Airflow
   * Data Wrangling and Transformation
     * NumPy
