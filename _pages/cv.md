@@ -16,26 +16,27 @@ Work experience
 
 * **De Volksbank**
   * Data Engineer (November 2023 - Present)
-    * Work on expanding the cloud data lakehouse using marketing and financial data from the on-premise data warehouse within the Client Interface domain. 
-    * Engineered over 30 automated data pipelines for marketing campaigns and personalised content for the De Volksbank brands using Airflow and Athena/Trino SQL.
-    * Onboarding new hires within the team and mentoring them in their user stories and working methods.
-    * Used technologies: Amazon Web Services (AWS), SQL (Teradata/Trino), Jira, Confluence, GitHub, Airflow, Terraform and Python (PySpark). 
+    * Work on expanding the cloud data lakehouse using marketing and financial data from the on-premise data warehouse within the Client Interface domain.
+    * Engineered and configured over 30 automated data pipelines for marketing campaigns and personalised content for De Volksbank brands using Airflow, Python, and Athena/Trino SQL.
+    * Collaborated with technical and non-technical key stakeholders within the marketing domain to align dependencies with our data infrastructure.
+    * Onboarding (non-)technical new hires within the team and mentoring them in their user stories and working methods.
+    * Used technologies: Amazon Web Services (AWS), SQL (Teradata/Athena), Jira, Confluence, GitHub, Airflow, Terraform, and Python (PySpark).
   * Junior Data Engineer BI (September 2022 - October 2023)
-    * Further developing and implementing the functional data warehouse within De Volksbank. 
-    * Designed, aligned, and developed new BI dashboards and features in existing BI dashboards for credit risk model monitoring within Tableau. 
-    * Worked on data migrations within the on-premise data warehouse to prepare credit risk monitoring datasets using Teradata SQL and SAP PowerDesigner. 
-    * Used technologies: SQL (Teradata), Jira, Confluence, BitBucket, SAP PowerDesigner, and Tableau. 
+    * Further developing and implementing the functional data warehouse within De Volksbank.
+    * Designed, aligned, and developed new BI dashboards and features in existing business intelligence dashboards for credit risk model monitoring within Tableau.
+    * Worked on data migrations within the on-premise data warehouse to prepare credit risk model monitoring datasets using Teradata SQL and SAP PowerDesigner.
+    * Used technologies: SQL (Teradata), Jira, Confluence, BitBucket, SAP PowerDesigner, and Tableau.
 
 * **Bit Academy**
   * Part of the Team - Community Coach (January 2023 - August 2023)
-    * Facilitated and coached over 20 students with coding problems for the Bit Academy Pro courses in Python, SQL, and other open-source technologies. 
-    * Mentored 5 students interested in a career in data by sharing industry and theoretical knowledge within the data science, data analytics, and data engineering domains. 
+    * Facilitated and coached over 20 students with coding problems for the Bit Academy Pro courses in Python, SQL, and other open-source technologies.
+    * Mentored 5 students interested in a career in data by sharing industry and theoretical knowledge within the data science, data analytics, and data engineering domains.
     * Used technologies: SQL (SQLite), GitLab, and Python. 
 
 * **Coolblue**
   * Data Science Intern (April 2022 - August 2022)
-    * Worked on the weekly potential sales and demand forecast for one of the product types within Coolblue. 
-    * Group different products based on their sales behaviours and propose different machine learning forecasting approaches for the selected product types. 
+    * Worked on the weekly potential sales and demand forecast for one of the product types within Coolblue.
+    * Group different products based on their sales behaviours and propose different machine learning forecasting approaches for the selected product types.
     * Used technologies: SQL (BigQuery), Jira, Confluence, GitHub, and Python. 
 
 * **Finaps**
@@ -44,42 +45,42 @@ Work experience
     * Worked on several continuous improvement initiatives in the form of research chapters and respective ISO standards.
     * Part of the tactical stream within the organisation by initialising research chapter teams within the software engineering and data domains. 
     * Mentored 2 (graduate) interns with their projects and research. 
-    * Milestone: achieving the ISO 9001 certification with Finaps in August 2021. 
+    * Milestone: achieving ISO 9001 compliance and certification with Finaps in August 2021. 
 
 * **Accenture**
   * Associate (March 2018 - September 2019)
     * Started as an undergraduate intern, which was scoped on data security tooling and best practices for GDPR compliance (March 2018 - August 2018).
     * Provided project management support across Accenture's Dutch accounts within the chemical resources industry.
-    * Tasks consist of managing project financials, calculating price margins for new consultancy projects and extensions, and collaborating with the project managers and managing directors to win new deals.
-    * Mentored several (graduate) interns with their projects and research.
+    * The tasks consist of managing project financials, calculating price margins for new consulting projects and project extensions, and collaborating with project managers and managing directors to win new deals.
+    * Mentored several (graduate) interns with their projects and research within the technology domain. 
 
 * **Finaps**
   * Junior Information Security Specialist (August 2016 - December 2017)
     * Started as an intern focused on implementing the ISO 27001 standard within the organisation (August 2016 - January 2017). 
     * Managed to set up the ISO 27001 framework in a time frame of 7 months within the organisation. 
     * Worked on internal audits, writing information security and GDPR policies, and performing risk assessments when (technology) changes occurred within the organisation. 
-    * Milestone: achieving the ISO 27001 certification with Finaps in April 2017. 
+    * Milestone: achieving ISO 27001 compliance and certification with Finaps in April 2017.  
 
 Volunteer experience/Personal projects
 ------
 
 * **Ichi Ban Leiden**
   * Data Engineer (March 2024 - Present)
-    * Support my parents’ restaurant by gathering data sources for gaining insights about the restaurant's performance.
-    * Developing the platform for app deployment, data warehousing, and data engineering, see [link](https://rchou97.github.io/portfolio/96-Restaurant-Analytics/) for more information. 
+    * Support my parents’ restaurant by gathering data sources to gain insight into the restaurant’s performance.
+    * Developed and configured the platform for app deployment, data storage, and data engineering, see the link to the [project description](https://rchou97.github.io/portfolio/96-Restaurant-Analytics/) for more information. 
     * Used technologies: Google Cloud Platform (GCP), Python, SQL (BigQuery), and GitHub.
 
 * **Volt Europe**
   * Data Analyst (August 2021 - April 2023)
-    * Volunteered as a data analyst facilitator for the Data Analytics team of Volt Europe. 
-    * Performing ETL on raw data to make various dashboards for different stakeholders within Volt. 
+    * Volunteered as a data analyst facilitator for the Volt Europe Data Analytics team.
+    * Performing ETL on raw data to create various dashboards for different stakeholders within Volt. 
     * Manage, onboard, and delegate tasks to several Volt members related to BI dashboarding. 
-    * Used technologies: SQL (PostgreSQL), Python, GitLab, and Looker Studio. 
+    * Used technologies: SQL (PostgreSQL), Python, GitLab, and Looker Studio.
 
 * **KLM/Run in the Sun Foundation**
   * Volunteer Staff (November 2017)
-    * Volunteered for 1 month as a facility officer for the participants of this marathon. 
-    * Tasks varied from handing out drinks and medals to the participants to setting up the event.
+    * Volunteered for 1 month as a facility officer for the participants in this marathon. 
+    * The tasks ranged from handing out drinks and medals to the participants to setting up the event.
 
 Education
 ------
