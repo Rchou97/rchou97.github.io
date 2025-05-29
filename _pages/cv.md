@@ -17,12 +17,13 @@ Work experience
 * **ASN Bank**
   * Data Engineer (November 2023 - July 2025)
     * Previously De Volksbank. Work on expanding the cloud data lakehouse using marketing and financial data from the on-premise data warehouse within the Client Interface domain.
-    * Engineered and configured over 30 automated data pipelines for marketing campaigns and personalised content for De Volksbank brands using Airflow, Python, and Athena/Trino SQL.
+    * Engineered and configured over 30 automated data pipelines for marketing campaigns and personalised content for the ASN Bank brands using Airflow, Python, and Athena/Trino SQL.
+    * Developed and configured data quality checks within our different data layers for delivering consistent data with Great Expectations.
     * Collaborated with technical and non-technical key stakeholders within the marketing domain to align dependencies with our data infrastructure.
     * Onboarding (non-)technical new hires within the team and mentoring them in their user stories and working methods.
     * Used technologies: Amazon Web Services (AWS), SQL (Teradata/Athena), Jira, Confluence, GitHub, Airflow, Terraform, and Python (PySpark).
   * Junior Data Engineer BI (September 2022 - October 2023)
-    * Further developing and implementing the functional data warehouse within De Volksbank.
+    * Further developing and implementing the functional data warehouse within ASN Bank.
     * Designed, aligned, and developed new BI dashboards and features in existing business intelligence dashboards for credit risk model monitoring within Tableau.
     * Worked on data migrations within the on-premise data warehouse to prepare credit risk model monitoring datasets using Teradata SQL and SAP PowerDesigner.
     * Used technologies: SQL (Teradata), Jira, Confluence, BitBucket, SAP PowerDesigner, and Tableau.
