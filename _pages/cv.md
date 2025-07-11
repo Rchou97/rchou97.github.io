@@ -14,6 +14,10 @@ For a more extensive résumé in PDF format, you can find it [here](https://rcho
 Work experience
 ------
 
+* **Ministry of the Interior and Kingdom Relations**
+  * Data Engineer (July 2025 - Present)
+    * Used technologies: Python (Polars), SQL (PostgreSQL), Airflow, DBT, and GitLab.
+
 * **ASN Bank**
   * Data Engineer (November 2023 - July 2025)
     * Previously De Volksbank. Work on expanding the cloud data lakehouse using marketing and financial data from the on-premise data warehouse within the Client Interface domain.
@@ -127,7 +131,6 @@ Technical Skills
   * Data Orchestration and Engineering Ops
     * Boto3
     * Awswrangler
-    * Google Cloud Composer
     * Airflow
   * Data Wrangling and Transformation
     * NumPy
@@ -139,13 +142,6 @@ Technical Skills
     * Matplotlib
     * Plotly
     * Seaborn
-  * ML libraries
-    * AdaBoost
-    * CatBoost
-    * LightGBM
-    * Scikit-Learn
-    * Shap
-    * XGBoost
 * ***R***
   * Tidyverse
     * dplyr
@@ -170,6 +166,7 @@ Technical Skills
   * Cloudwatch
   * Glue
   * Redshift
+  * MWAA
   * S3
   * SageMaker
   * Secrets Manager
@@ -193,6 +190,7 @@ Technical Skills
   * Cloud Functions
   * Cloud Run
   * Cloud Scheduler
+  * Cloud Composer
   * IAM & Admin
 * ***SAP***
   * SAP PowerDesigner
