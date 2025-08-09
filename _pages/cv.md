@@ -16,7 +16,8 @@ Work experience
 
 * **Ministry of the Interior and Kingdom Relations**
   * Data Engineer (July 2025 - Present)
-    * Used technologies: Python (Polars), SQL (PostgreSQL), Airflow, DBT, and GitLab.
+    * Responsible for extracting, maintaining, and ensuring sustainable storage of our data within our data warehouse.
+    * Used technologies: SQL (PostgreSQL), GitLab, Airflow, Python (Pandas/Polars), and dbt.
 
 * **ASN Bank**
   * Data Engineer (November 2023 - July 2025)
@@ -119,6 +120,8 @@ Certifications
   * [AWS Certified Cloud Practitioner](https://www.credly.com/badges/8eb83159-b3b3-4cf4-a173-b6017e6c0eb7/public_url)
 * ***Astronomer***
   * [Apache Airflow 2 Fundamentals](https://www.credly.com/badges/a3a7df2f-fe6c-470d-b926-f38e22f0aba1/public_url)
+* ***dbt***
+  * [dbt Fundamentals](https://credentials.getdbt.com/d3c758db-4f66-46f5-9525-2e62d4771122#acc.G5oPts6B)
 * ***Scrum***
   * [Professional Scrum Master I (PSM I)](https://www.credly.com/badges/024d9a0d-d4c2-4ee0-b75f-d1b8ca9d36d5)
 
