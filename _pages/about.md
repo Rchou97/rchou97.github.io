@@ -16,7 +16,7 @@ Data Science at the [University of Amsterdam (UVA)](https://www.uva.nl/en/progra
 For my full résumé,
 you could go to my [CV](https://rchou97.github.io/cv/) page or to my [LinkedIn profile](www.linkedin.com/in/chourichard).
 
-Previously, I worked for [Finaps](https://www.finaps.nl/), a cool scale-up company based in Amsterdam focused on analytics and application development in open source languages and the low-code platform Mendix, Accenture Technology, Bit Academy and did an internship at Coolblue.
+Previously, I worked for [Finaps](https://www.finaps.nl/), a cool scale-up company based in Amsterdam focused on analytics and application development in open source languages and the low-code platform Mendix, Accenture Technology, Bit Academy, did an internship at Coolblue, and ASN Bank.
 
 Interests
 ======

@@ -17,7 +17,7 @@ Work experience
 * **Ministry of the Interior and Kingdom Relations**
   * Data Engineer (July 2025 - Present)
     * Responsible for extracting, maintaining, and ensuring sustainable storage of our data within our data warehouse.
-    * Used technologies: SQL (PostgreSQL), GitLab, Airflow, Python (Pandas/Polars), and dbt.
+    * Used technologies: SQL (PostgreSQL), GitLab, Python (Pandas/Polars), and dbt.
 
 * **ASN Bank**
   * Data Engineer (November 2023 - July 2025)
@@ -90,8 +90,9 @@ Volunteer experience/Personal projects
 
 Education
 ------
-* **MSc. in Artificial Intelligence, University of Texas at Austin, 2025-Present**
-  * Taken courses: *Deep Learning* 
+* **MSc. in Computer Science, University of Texas at Austin, 2025-Present**
+  * Started in the Artificial Intelligence programme, but made the switch to Computer Science for the emphasis on Theory and System courses.
+  * Taken courses: *Deep Learning* and *Reinforcement Learning*
 
 * **Open University student in Computer Science and Data Science, University of Helsinki, 2023-2025**
   * Taken courses: *Operating Systems*, *Introduction to Programming*, *Advanced Course in Programming*, *Big Data Platforms*, *Functional Programming I*, *Introduction in Logic I*, *Introduction to Logic II*, *Data Structures and Algorithms I*, *Data Structures and Algorithms II*, *Working with Text in Python*, *Calculus 1A: Limits and differentiation*, *Calculus 1B: Integration*, *Computer and Internet*, *Devops with Docker: Part 1*, and *Devops with Docker: Part 2*.
