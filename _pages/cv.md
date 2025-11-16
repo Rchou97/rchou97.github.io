@@ -97,7 +97,7 @@ Education
   * Taken courses: *Deep Learning* and *Reinforcement Learning*
 
 * **Open University student in Computer Science and Data Science, University of Helsinki, 2023-2025**
-  * Taken courses: *Operating Systems*, *Introduction to Programming*, *Advanced Course in Programming*, *Big Data Platforms*, *Functional Programming I*, *Introduction in Logic I*, *Introduction to Logic II*, *Data Structures and Algorithms I*, *Data Structures and Algorithms II*, *Working with Text in Python*, *Calculus 1A: Limits and differentiation*, *Calculus 1B: Integration*, *Computer and Internet*, [*Java Programming I*](https://certificates.mooc.fi/validate/hy1b88wi18) *Devops with Docker: Part 1*, and *Devops with Docker: Part 2*.
+  * Taken courses: *Operating Systems*, *Introduction to Programming*, *Advanced Course in Programming*, *Big Data Platforms*, *Functional Programming I*, *Introduction in Logic I*, *Introduction to Logic II*, *Data Structures and Algorithms I*, *Data Structures and Algorithms II*, *Working with Text in Python*, *Calculus 1A: Limits and differentiation*, *Calculus 1B: Integration*, *Computer and Internet*, [*Java Programming I*](https://certificates.mooc.fi/validate/hy1b88wi18), *Devops with Docker: Part 1*, and *Devops with Docker: Part 2*.
 
 * **MSc. in Information Studies: Data Science, University of Amsterdam, 2021-2022**
   * Taken courses: *Fundamentals of Data Science*, *Statistics, Simulation and Optimisation*, *Applied Machine Learning*, *Data Systems Project*, *Causal Data Science*, *Big Data* and *Master Thesis*.
