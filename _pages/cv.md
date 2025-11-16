@@ -16,7 +16,9 @@ Work experience
 
 * **Ministry of the Interior and Kingdom Relations**
   * Data Engineer (July 2025 - Present)
-    * Responsible for extracting, maintaining, and ensuring sustainable storage of our data within our data warehouse.
+    * Responsible for extracting, maintaining, and ensuring sustainable storage of our data within our data warehouse. 
+    * Designing the data warehouse via data modelling for improving data storage and ensuring business requirements are fulfilled. 
+    * Configuring data quality tests using dbt to ensure continuous tests before and after each incremental delivery.
     * Used technologies: SQL (PostgreSQL), GitLab, Python (Pandas/Polars), and dbt.
 
 * **ASN Bank**
@@ -95,7 +97,7 @@ Education
   * Taken courses: *Deep Learning* and *Reinforcement Learning*
 
 * **Open University student in Computer Science and Data Science, University of Helsinki, 2023-2025**
-  * Taken courses: *Operating Systems*, *Introduction to Programming*, *Advanced Course in Programming*, *Big Data Platforms*, *Functional Programming I*, *Introduction in Logic I*, *Introduction to Logic II*, *Data Structures and Algorithms I*, *Data Structures and Algorithms II*, *Working with Text in Python*, *Calculus 1A: Limits and differentiation*, *Calculus 1B: Integration*, *Computer and Internet*, *Devops with Docker: Part 1*, and *Devops with Docker: Part 2*.
+  * Taken courses: *Operating Systems*, *Introduction to Programming*, *Advanced Course in Programming*, *Big Data Platforms*, *Functional Programming I*, *Introduction in Logic I*, *Introduction to Logic II*, *Data Structures and Algorithms I*, *Data Structures and Algorithms II*, *Working with Text in Python*, *Calculus 1A: Limits and differentiation*, *Calculus 1B: Integration*, *Computer and Internet*, [*Java Programming I*](https://certificates.mooc.fi/validate/hy1b88wi18) *Devops with Docker: Part 1*, and *Devops with Docker: Part 2*.
 
 * **MSc. in Information Studies: Data Science, University of Amsterdam, 2021-2022**
   * Taken courses: *Fundamentals of Data Science*, *Statistics, Simulation and Optimisation*, *Applied Machine Learning*, *Data Systems Project*, *Causal Data Science*, *Big Data* and *Master Thesis*.
@@ -153,6 +155,8 @@ Technical Skills
     * readr
     * tibble
     * tidyr
+* ***Java***
+  * JDK 11 (basics)
 
 **Query Languages**
 
