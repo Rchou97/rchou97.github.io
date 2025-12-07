@@ -16,7 +16,7 @@ Work experience
 
 * **Ministry of the Interior and Kingdom Relations**
   * Data Engineer (July 2025 - Present)
-    * Responsible for extracting, maintaining, and ensuring sustainable storage of our data within our data warehouse. 
+    * Responsible for extracting, maintaining, and ensuring sustainable storage of our data within our data warehouse to perform HR analytics for the civil servants of the Netherlands. 
     * Designing the data warehouse via data modelling for improving data storage and ensuring business requirements are fulfilled. 
     * Configuring data quality tests using dbt to ensure continuous tests before and after each incremental delivery.
     * Used technologies: SQL (PostgreSQL), GitLab, Python (Pandas/Polars), and dbt.
