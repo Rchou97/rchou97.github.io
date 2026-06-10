@@ -95,10 +95,10 @@ Education
 ------
 * **MSc. in Computer Science, University of Texas at Austin, 2025-Present**
   * Started in the Artificial Intelligence programme, but made the switch to Computer Science for the emphasis on Theory and System courses.
-  * Taken courses: *Deep Learning*, *Reinforcement Learning*, and *Planning, Search, and Reasoning under Uncertainty*.
+  * Taken courses: [*Deep Learning*](https://cns.badges.utexas.edu/e6b07473-1b33-4e20-89ca-e555fe3de788#acc.7GvLS0T1), [*Reinforcement Learning*](https://cns.badges.utexas.edu/e08a0ac7-e37f-45ba-9346-a020400424d1#acc.HXx09uVW), [*Planning, Search, and Reasoning under Uncertainty*](https://cns.badges.utexas.edu/be8fdc13-04ee-44fb-b59f-cdc1efb3b736#acc.9SgFEy4v), and [*Automated Logical Reasoning*](https://cns.badges.utexas.edu/51d6f2fe-adfa-4698-8034-a143602f92b8#acc.bdi8Sf15).
 
 * **Open University student in Computer Science and Data Science, University of Helsinki, 2023-2025**
-  * Taken courses: *Operating Systems*, *Introduction to Programming*, *Advanced Course in Programming*, *Big Data Platforms*, *Functional Programming I*, *Introduction in Logic I*, *Introduction to Logic II*, *Data Structures and Algorithms I*, *Data Structures and Algorithms II*, *Working with Text in Python*, *Calculus 1A: Limits and differentiation*, *Calculus 1B: Integration*, *Computer and Internet*, [*Java Programming I*](https://certificates.mooc.fi/validate/hy1b88wi18), *Devops with Docker: Part 1*, and *Devops with Docker: Part 2*.
+  * Taken courses: *Operating Systems*, [*Introduction to Programming*](https://certificates.mooc.fi/validate/4r5j09r7irg), [*Advanced Course in Programming*](https://certificates.mooc.fi/validate/tlrhauo5zrq), [*Big Data Platforms*](https://certificates.mooc.fi/validate/510nxnh5e02), *Functional Programming I*, *Introduction in Logic I*, *Introduction to Logic II*, *Data Structures and Algorithms I*, *Data Structures and Algorithms II*, *Working with Text in Python*, *Calculus 1A: Limits and differentiation*, *Calculus 1B: Integration*, *Computer and Internet*, [*Java Programming I*](https://certificates.mooc.fi/validate/hy1b88wi18), [*Java Programming II*](https://certificates.mooc.fi/validate/axn63w2y4z), *Devops with Docker: Part 1*, and *Devops with Docker: Part 2*.
 
 * **MSc. in Information Studies: Data Science, University of Amsterdam, 2021-2022**
   * Taken courses: *Fundamentals of Data Science*, *Statistics, Simulation and Optimisation*, *Applied Machine Learning*, *Data Systems Project*, *Causal Data Science*, *Big Data* and *Master Thesis*.
